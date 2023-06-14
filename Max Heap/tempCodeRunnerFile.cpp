@@ -1,0 +1,1 @@
+ swap(heap[largest], heap[rootIndex]);
